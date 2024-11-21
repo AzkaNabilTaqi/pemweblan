@@ -5,8 +5,8 @@ namespace App\Models;
 use CodeIgniter\Model;
 
 class BelajarModel extends Model {
-    protected $table = 'belajar';
-    protected $primaryKey = 'id';
+    // protected $table = 'belajar';
+    // protected $primaryKey = 'id';
 
     public function getSource()
     {
